@@ -9,8 +9,6 @@
 
 ---
 
-Claro! Aqui está a tradução para o inglês:
-
 ## 🔥 Skills
 
 - **Java**: Expert in developing robust backends with **Spring Boot**, **Hibernate**, **JPA**, and **microservices** architecture.
